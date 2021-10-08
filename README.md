@@ -4,4 +4,5 @@ Earth Mission Asia (EMA), a medical organization that works in the jungles of My
 updated locally once an internet connection is reached. This added functionality is needed to allow the management of patient medical data when wifi and cellular reception are not available, a necessity for EMA as they send their medical staff deeper into the Myanmar jungles.
 
 ![](UI_Model.jpg)
+
 ![](DomainModel.jpg)
