@@ -5,6 +5,6 @@ updated locally once an internet connection is reached. This added functionality
 
 ![](domainModel.jpg)
 
-![](UIModel.jpeg)
+![](UIModel.jpg)
 
 
