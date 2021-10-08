@@ -5,6 +5,6 @@ updated locally once an internet connection is reached. This added functionality
 
 ![](UI_Model.jpg)
 
-![](EA3393F2-871F-4361-9657-1E2601BA2478.jpeg)
+![](F8C02E5B-221A-4C1D-955C-B1C4D306B02F.jpeg)
 
 
