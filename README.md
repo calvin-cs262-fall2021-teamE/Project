@@ -6,4 +6,6 @@ Earth Mission Asia (EMA), a medical organization that works in the jungles of My
 
 [UI Model](UI_Model.jpg)
 
+All of the code for the current prototype is contained in our [Client Repo](https://github.com/calvin-cs262-fall2021-teamE/Client)
 
+The javascript code and sql commands for our data service can be found in our [Service Repo](https://github.com/calvin-cs262-fall2021-teamE/Service)
