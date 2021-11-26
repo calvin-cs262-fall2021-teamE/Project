@@ -7,4 +7,4 @@ Earth Mission Asia (EMA), a medical organization that works in the jungles of My
   * [UI Model](UI_Model.jpg)
 * Other Repositories
   * [Client Repo](https://github.com/calvin-cs262-fall2021-teamE/Client)
-  * [Service Repo](https://github.com/calvin-cs262-fall2021-teamE/Service).
+  * [Service Repo](https://github.com/calvin-cs262-fall2021-teamE/Service)
