@@ -5,5 +5,5 @@ Earth Mission Asia (EMA), a medical organization that works in the jungles of My
 * Design Models
   * [Domain Model](domainModel.jpg)
   * [UI Model](UI_Model.jpg)
-  * [UML deployment diagram](UMLdiagram.png)
+  * [UML Deployment Diagram](UMLdiagram.png)
 
