@@ -7,6 +7,6 @@ Earth Mission Asia (EMA), a medical organization that works in the jungles of My
   * [UI Model](UI_Model.jpg)
   * [UML Deployment Diagram](UMLDeployment.png)
 * Usability Test Documents
-  * [Usability Test Script](OPUStestscript.docx)
-  * [Usability Test Report](UserTestReport.docx)
+  * [Usability Test Script](OPUS_Test_Script.docx)
+  * [Usability Test Report](User_Test_Report.docx)
 
